@@ -22,6 +22,11 @@ Python 3.5.2
 
 
 ## Results:
-Segnet ~82%
-Modified Segnet ~60%
+Segnet ~82% \
+Modified Segnet ~60% \
 Modified Segnet with skip connection ~85%
+
+![Alt text](images/seg.png?raw=true "Segmentation results 1")
+
+![Alt text](images/seg2.png?raw=true "Segmentation results 2")
+
