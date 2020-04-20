@@ -4,7 +4,7 @@ This repository includes multiple implementation of semantic segmentation networ
 
 ## Installation
 
-Use the [Cityscapes](https://www.cityscapes-dataset.com/) to train and test the model.
+Used the [Cityscapes](https://www.cityscapes-dataset.com/) to train and test the model.
 
 System Requirements:
 
