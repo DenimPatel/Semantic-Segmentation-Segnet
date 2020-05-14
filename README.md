@@ -22,8 +22,9 @@ Python 3.5.2
 ```
 
 ## Results
-``` bash Segnet ~82% \
-Modified Segnet ~60% \
+``` bash 
+Segnet ~82% 
+Modified Segnet ~60% 
 Modified Segnet with skip connection ~85%
 ```
 
